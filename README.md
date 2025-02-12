@@ -16,3 +16,7 @@ Si tienes alguna sugerencia o quieres conectar, puedes encontrarme en:
 Hecho con ❤️ por Jenny Acuña Chapa
 
 ¡Gracias por visitar mi repositorio! 😊✨
+
+Para ejecutar el sistema debes poner: 
+
+```npn react install```
