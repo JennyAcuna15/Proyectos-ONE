@@ -13,6 +13,6 @@ Si tienes alguna sugerencia o quieres conectar, puedes encontrarme en:
 🔗 [LinkedIn](www.linkedin.com/in/jenny-acuna-chapa)  
 
 ## 👩‍💻 Autor
-Hecho con ❤️ por Jenny Acúña Chapa
+Hecho con ❤️ por Jenny Acuña Chapa
 
 ¡Gracias por visitar mi repositorio! 😊✨
