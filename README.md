@@ -20,3 +20,5 @@ Hecho con ❤️ por Jenny Acuña Chapa
 Para ejecutar el sistema debes poner: 
 
 ```npn react install```
+
+Sistema de Registro 2
